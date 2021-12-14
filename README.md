@@ -1,4 +1,6 @@
 # SawoAuth
+This Repository is used to demonstrate End-to-End implementation of SAWO with JWT Auth.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
